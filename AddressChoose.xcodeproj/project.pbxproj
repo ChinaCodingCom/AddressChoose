@@ -34,6 +34,7 @@
 		2494813521F5C2FA00996AC9 /* CEAddressView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2494813421F5C2FA00996AC9 /* CEAddressView.m */; };
 		2494813821F5C32200996AC9 /* CEAddressTableView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2494813721F5C32200996AC9 /* CEAddressTableView.m */; };
 		2494813B21F5C48700996AC9 /* CEAppUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 2494813A21F5C48700996AC9 /* CEAppUtils.m */; };
+		24A6EAEF246A924E006A110C /* hkgf.gif in Resources */ = {isa = PBXBuildFile; fileRef = 24A6EAEE246A924E006A110C /* hkgf.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -104,6 +105,7 @@
 		2494813721F5C32200996AC9 /* CEAddressTableView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CEAddressTableView.m; sourceTree = "<group>"; };
 		2494813921F5C48700996AC9 /* CEAppUtils.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CEAppUtils.h; sourceTree = "<group>"; };
 		2494813A21F5C48700996AC9 /* CEAppUtils.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CEAppUtils.m; sourceTree = "<group>"; };
+		24A6EAEE246A924E006A110C /* hkgf.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = hkgf.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -204,6 +206,7 @@
 		241CD37D21F2CFDC00A56055 /* image */ = {
 			isa = PBXGroup;
 			children = (
+				24A6EAEE246A924E006A110C /* hkgf.gif */,
 				241CD37E21F2CFDC00A56055 /* 关闭.png */,
 				241CD37F21F2CFDC00A56055 /* 关闭@3x.png */,
 				241CD38021F2CFDC00A56055 /* 关闭@2x.png */,
@@ -366,6 +369,7 @@
 				241CD38121F2CFDC00A56055 /* 关闭.png in Resources */,
 				241CD3AE21F2D10100A56055 /* areaCodeList.json in Resources */,
 				241CD38221F2CFDC00A56055 /* 关闭@3x.png in Resources */,
+				24A6EAEF246A924E006A110C /* hkgf.gif in Resources */,
 				241CD35421F2CFB000A56055 /* Assets.xcassets in Resources */,
 				241CD38321F2CFDC00A56055 /* 关闭@2x.png in Resources */,
 				241CD34F21F2CFAE00A56055 /* Main.storyboard in Resources */,
